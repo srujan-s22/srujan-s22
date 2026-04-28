@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hello🧘🏻</h1>
 
 ###
 
@@ -40,6 +40,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srujan-s22/srujan-s22/output/pacman-contribution-graph-dark.svg">

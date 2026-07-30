@@ -7,12 +7,12 @@
 
 <img src="assets/ascii-portrait.png" height="650">
 
-```ansi
-OS          : macOS Golden Gate
-Host        : MacBook Air M4
-Shell       : zsh
-Editor      : VS Code
-```
+<pre align="center">
+OS      : macOS Sequoia
+Host    : MacBook Air M4
+Shell   : zsh
+Editor  : VS Code
+</pre>
 
 </td>
 

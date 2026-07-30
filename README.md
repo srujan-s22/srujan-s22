@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ascii-portrait.png" width="900">
+  <img src="assets/ascii-portrait.png" width="300">
 </p>
 
 ```ansi

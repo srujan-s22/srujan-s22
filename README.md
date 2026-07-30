@@ -2,48 +2,24 @@
   <img src="assets/ascii-portrait.png" width="900">
 </p>
 
-<div align="center">
+```ansi
+Last login: Today on github
 
-# Hi there, I'm Srujan 👋
+srujan@srujan-s22:~$ neofetch
 
-### Full Stack Developer • CSE Student • Building Exora
+OS          : macOS Sequoia
+Host        : MacBook Air M4
+Shell       : zsh
+Editor      : VS Code
 
-Passionate about creating scalable web applications, modern user experiences, and AI-powered solutions.
+Languages   : Java, JavaScript, TypeScript, Python
+Frontend    : React, Next.js, Tailwind CSS
+Backend     : Node.js, Express.js
+Database    : MongoDB, PostgreSQL
+Cloud       : Firebase, Google Cloud
 
----
+Current     : Building Exora
+Learning    : AI • ML • Cyber Security
 
-### 🚀 Currently
-
-🔭 Building **Exora** – Exhibition Operations Platform
-
-🌱 Learning **AI • Machine Learning • Cyber Security**
-
-💻 Exploring **Next.js, React, Node.js & Cloud Technologies**
-
-⚡ Goal: Become an exceptional Full Stack Engineer.
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-Coming Soon...
-
----
-
-## 📌 Featured Projects
-
-Coming Soon...
-
----
-
-## 📊 GitHub Stats
-
-Coming Soon...
-
----
-
-## 📫 Connect with Me
-
-Coming Soon...
+srujan@srujan-s22:~$
+```

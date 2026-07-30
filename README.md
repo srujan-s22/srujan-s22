@@ -7,16 +7,18 @@
 
 <img src="assets/ascii-portrait.png" height="650">
 
-</td>
-
-<td width="67%" valign="top">
-
 ```ansi
 OS          : macOS Golden Gate
 Host        : MacBook Air M4
 Shell       : zsh
 Editor      : VS Code
+```
 
+</td>
+
+<td width="67%" valign="top">
+
+```ansi
 Frontend    : HTML5, CSS3, JavaScript, TypeScript
               React, Next.js
               Tailwind CSS, Framer Motion
@@ -40,5 +42,4 @@ Tools       : Git, GitHub
               VS Code, Cursor
               Postman, Figma
               Claude Code
-
 ```

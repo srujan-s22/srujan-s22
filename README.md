@@ -3,7 +3,7 @@
 <table>
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="center" align="center">
 
 <img src="assets/ascii-portrait.png" height="650">
 

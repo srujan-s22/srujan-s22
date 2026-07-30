@@ -5,7 +5,7 @@
 
 <td width="33%" valign="top" align="center">
 
-<img src="assets/ascii-portrait.png" height="420">
+<img src="assets/ascii-portrait.png" height="650">
 
 </td>
 

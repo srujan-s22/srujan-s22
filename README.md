@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ascii-portrait.png" width="900">
+</p>
+
 <div align="center">
 
 # Hi there, I'm Srujan 👋

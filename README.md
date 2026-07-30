@@ -12,9 +12,10 @@
 <td width="67%" valign="top">
 
 ```ansi
-Last login: Today on github
+Last login: Thu Jul 30 12:47:08 on github
 
-srujan@srujan-s22:~$ neofetch
+[1;32msrujan@srujan-s22[0m:[1;34m~[0m$ neofetch
+
 
 OS          : macOS Golden Gate
 Host        : MacBook Air M4
@@ -27,3 +28,5 @@ Backend     : Node.js, Express.js
 Database    : MongoDB, PostgreSQL
 
 Current     : Building Exora
+
+```

@@ -8,7 +8,7 @@
 <img src="assets/ascii-portrait.png" height="650">
 
 <pre align="center">
-OS      : macOS Sequoia
+OS      : macOS Golden Gate
 Host    : MacBook Air M4
 Shell   : zsh
 Editor  : VS Code
